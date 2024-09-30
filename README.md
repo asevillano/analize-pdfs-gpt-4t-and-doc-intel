@@ -27,8 +27,11 @@ The needed libraries are specified in [requirement.txt](requirements.txt).
 
 Here is the code of this demo: [analyze-pdf-app.py](analyze-pdf-app.py)
 
+Set up your configuration variables in the .env file using the .env-sample as a template.
+
 To run the application execute this command: streamlit run analyze-pdf-app.py
 
 
 **DISCLAIMER:**
+
 This repository is provided "as is," without warranty of any kind. No support or maintenance will be provided for this project. Use it at your own risk, and feel free to modify or adapt the code as needed for your own purposes.

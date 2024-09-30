@@ -1,4 +1,4 @@
-# Analyze PDFs with Azure OpenAI GPT-4o and Azure Document Intelligence
+# Analyze PDFs with Azure OpenAI GPT-4 Turbo and Azure Document Intelligence
 
 The aim of this respo is to demonstrate the capabilities of GPT-4 Turbo-with-Vision on Azure OpenAI and Azure Document Intelligence + Gpt-4 Turbo to analyze PDFs and extract data.
 This demo is prepared to process two type of documents in Spanish:

@@ -25,10 +25,10 @@ It can take a minute to set up. If you run into problems, see [Python environmen
 
 The needed libraries are specified in [requirement.txt](requirements.txt).
 
-Here is the code of this demo: [video-analysis-with-gpt-4o.py](video-analysis-with-gpt-4o.py)
+Here is the code of this demo: [analyze-pdf-app.py](analyze-pdf-app.py)
 
 To run the application execute this command: streamlit run analyze-pdf-app.py
 
 
-**Disclaimer:**
+**DISCLAIMER:**
 This repository is provided "as is," without warranty of any kind. No support or maintenance will be provided for this project. Use it at your own risk, and feel free to modify or adapt the code as needed for your own purposes.

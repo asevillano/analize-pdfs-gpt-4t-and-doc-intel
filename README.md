@@ -28,6 +28,7 @@ The needed libraries are specified in [requirement.txt](requirements.txt).
 Here is the code of this demo: [analyze-pdf-app.py](analyze-pdf-app.py)
 
 Set up your configuration variables in the .env file using the .env-sample as a template.
+By the way, although this repo is been implemented with GPT-4 Turbo and GPT-4 Turbo-with-Vision, you can replace both models by GPT-4o because it is multimodal and is able to analyze text and images.
 
 To run the application execute this command: streamlit run analyze-pdf-app.py
 
